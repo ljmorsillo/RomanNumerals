@@ -2,7 +2,7 @@
 
 Code to translate integers to Roman Numerals and vice versa. C# coding exercise, expanded.
 
-* [ ] Convert integer to Roman Numerals - as library
+* [ ] Convert integer to Roman Numerals - as library with test framework
 
 * [ ] Convert number in Roman Numerals to integer - as library
 

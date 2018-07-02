@@ -7,12 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumerals", "RomanNumer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNTests", "RNTests\RNTests.csproj", "{7F5A578E-8FB3-42C6-8D8B-0130E8F43B14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsole", "ConsoleApplication1\TestConsole.csproj", "{A658FDD9-DCB0-4482-9C9E-99173CA79D20}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{89200089-6ADE-4A97-A678-96CCC4D61E2B}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RNTestConsole", "RNConsole\RNTestConsole.csproj", "{A658FDD9-DCB0-4482-9C9E-99173CA79D20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

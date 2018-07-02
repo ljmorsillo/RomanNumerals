@@ -22,7 +22,7 @@ namespace RomanNumerals
         public static string ConvertTensToRoman(int numToConvert)
         {
             string result = "";
-            int tens = int.Parse(digit(2, numToConvert));
+            int tens = int.Parse(digit(2, numToConvert)); //Here's the problem...
             string[] roman = { "", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC", "C" };
             result = roman[tens];
             return result;
